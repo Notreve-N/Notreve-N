@@ -5,15 +5,15 @@
 
 <img src="https://komarev.com/ghpvc/?username=notreve-n&label=Profile%20views&color=0e75b6&style=flat" alt="notreve-n" /> 
 
-- 🖥 Estou atualmente trabalhando em **Ericsson (front-end e low-code)**
-- 📚 Estudo Análise e desenvolvimento de sistema
+- 🖥 Atualmente, tenho experiência em automação de processos, RPA e desenvolvimento Front-end, com foco em JavaScript, Python e plataformas low-code.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas pela Anhanguera.
 - 😊 Pronouns: ele/dele
 
 <h3 align="left">Connect with me:</h3>
 <div> 
    <a href="https://wa.me/11968621004" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
    <a href="mailto:nobreeverton31@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/%C3%A9verton-n-4b609513a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/everton-nobre/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
 ##
